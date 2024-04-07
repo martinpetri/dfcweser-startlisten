@@ -10,5 +10,18 @@ Darauf wird dann ein Docker-Container mit node red laufen, der den hier veröffe
 Wie praxistauglich das Ganze ist muss sich erst noch zeigen, da es erfahrungsgemäß immer ein paar Hürden beim Thema Digitalisierung gibt.
 Hier wären das beispielsweise Sonnenlicht + Bildschirm, Bedienbarkeit der Software, Zuverlässigkleit des Systems, etc.
 
-Die Software steht frei zur Verfügung und kann ohne Einschränkungen kopiert, verändert und weitergegeben werden.
+Zur Installation in node red werden die folgenden Paletten zusätzlich benötigt:
+- node-red-contrib-filesystem
+- node-red-dashboard
+- node-red-node-ui-table
+
+Eine detailliertere Beschreibung zur Installation, sowie eine Bedienungsanleitung werden demnächst hier hinterlegt.
+Die Bedienung der Web-Oberfläche ist im wesentlichen aber selbsterklärend. Voraussetzung für die Installation sind Grundkenntnisse
+im Umgang mit [node red](https://nodered.org/). Wir empfehlen node red mit [Docker](https://www.docker.com/) zu installieren: https://hub.docker.com/r/nodered/node-red
+
+
+Das Projekt "DfC Weser Startlisten" steht frei zur Verfügung und kann ohne Einschränkungen kopiert, verändert und weitergegeben werden.
+Wir würden uns freuen Rückmeldungen von anderen Gleitschirm- und Drachenflug-Vereinen zu bekommen.
 Rückfragen bitte per E-Mail an martin(at)dfcweser.de
+
+https://dfcweser.de
