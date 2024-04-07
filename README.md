@@ -25,3 +25,14 @@ Wir würden uns freuen Rückmeldungen von anderen Gleitschirm- und Drachenflug-V
 Rückfragen bitte per E-Mail an martin(at)dfcweser.de
 
 https://dfcweser.de
+
+Hier noch ein paar Screenshots:
+
+<table border=0>
+<tr><td><img src="img/screenshot1.png" alt="drawing" width="400"/></td>
+<td><img src="img/screenshot2.png" alt="drawing" width="400"/></td></tr>
+<tr><td><img src="img/screenshot3.png" alt="drawing" width="400"/>
+<td><img src="img/screenshot4.png" alt="drawing" width="400"/></td></tr>
+<tr><td><img src="img/screenshot5.png" alt="drawing" width="400"/></td>
+<td><img src="img/screenshot6.png" alt="drawing" width="400"/></td></tr>
+</table>
