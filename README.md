@@ -17,7 +17,7 @@ Zur Installation in node red werden die folgenden Paletten zusätzlich benötigt
 
 Eine detailliertere Beschreibung zur Installation, sowie eine Bedienungsanleitung werden demnächst hier hinterlegt.
 Die Bedienung der Web-Oberfläche ist im wesentlichen aber selbsterklärend. Voraussetzung für die Installation sind Grundkenntnisse
-im Umgang mit [node red](https://nodered.org/). Wir empfehlen node red mit [Docker](https://www.docker.com/) zu installieren: https://hub.docker.com/r/nodered/node-red
+im Umgang mit [Node-RED](https://nodered.org/). Wir empfehlen Node-RED mit [Docker](https://www.docker.com/) zu installieren: https://hub.docker.com/r/nodered/node-red
 
 
 Das Projekt "DfC Weser Startlisten" steht frei zur Verfügung und kann ohne Einschränkungen kopiert, verändert und weitergegeben werden.
