@@ -14,6 +14,10 @@ Zur Installation in node red werden die folgenden Paletten zusätzlich benötigt
 - node-red-contrib-filesystem
 - node-red-dashboard
 - node-red-node-ui-table
+- node-red-contrib-moment
+- node-red-contrib-simple-gate
+
+Nach dem Import der Flows werden in Node-Red (manchmal) alle UI Nodes mit einem roten Dreieck gekennzeichnet und der Fehler 'invalid properties - width' ist hinterlegt. Hier genügt es die Flows/Nodes zu "übernehmen" (deploy) und im Browser die Seite zu aktualisieren.
 
 Eine detailliertere Beschreibung zur Installation, sowie eine Bedienungsanleitung werden demnächst hier hinterlegt.
 Die Bedienung der Web-Oberfläche ist im wesentlichen aber selbsterklärend. Voraussetzung für die Installation sind Grundkenntnisse
